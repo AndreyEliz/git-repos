@@ -1,3 +1,10 @@
+This project uses Github Search Api.
+
+
+Application performs github api call on search form submit (on "enter" or on icon click).
+Results are showing in table and can be paginated.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
